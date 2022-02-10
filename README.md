@@ -1,2 +1,4 @@
 # Mango
-A powerful Java wrapepr for the Slothpixel API
+A powerful Java wrapper for the Slothpixel API
+
+# WIP
